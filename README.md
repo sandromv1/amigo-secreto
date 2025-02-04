@@ -28,7 +28,6 @@ Una aplicación web sencilla para agregar nombres de amigos, visualizar la lista
    - Se mostrará el nombre del amigo sorteado en la sección de resultados.
 
 ## 📷 Vista Previa
-![image](https://github.com/user-attachments/assets/7faacca8-60b5-4e72-b929-d7289d1195d8)
 ![image](https://github.com/user-attachments/assets/8cd33b1e-0c60-4dd6-bd42-b6df782be4ee)
 ![image](https://github.com/user-attachments/assets/42470064-9609-4be8-a368-87bbc4212063)
 
@@ -36,8 +35,11 @@ Una aplicación web sencilla para agregar nombres de amigos, visualizar la lista
 - Después de añadir amigos, la lista se llena con los nombres.
 - Tras el sorteo, aparece el nombre del "amigo secreto" seleccionado.
 
-## 📝 Nota
+## Cómo instalar y ejecutar 🚀
 
-- Puedes clonar este repositorio y ejecutarlo localmente abriendo el archivo `index.html` en tu navegador.
-- Para verlo en línea, configura GitHub Pages en el repositorio.
+1. Clona este repositorio en tu computadora:
+   ```bash
+   git clone https://github.com/<sandromv1>/amigo-secreto.git
 
+2. Abre el archivo index.html
+Despues de clonar el repositorio, abre el archivo ```index.html``` en tu navegador web favorito.
