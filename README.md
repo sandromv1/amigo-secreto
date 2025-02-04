@@ -41,5 +41,6 @@ Una aplicación web sencilla para agregar nombres de amigos, visualizar la lista
    ```bash
    git clone https://github.com/<sandromv1>/amigo-secreto.git
 
-2. Abre el archivo index.html
+2. Abre el archivo index.html:
+   ```bash
 Despues de clonar el repositorio, abre el archivo ```index.html``` en tu navegador web favorito.
